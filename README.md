@@ -36,3 +36,40 @@ Key SQL Techniques:
 Business Value:
 
 Helps emergency operations leaders identify possible fleet imbalance and prioritize resource reviews.
+
+### Query 2: Station Pressure Analysis
+
+File:
+`sql/02_station_pressure_analysis.sql`
+
+Business Question:
+
+Which emergency stations require operational review?
+
+Analysis Performed:
+
+- Calculated dispatch workload per vehicle
+- Measured station response performance
+- Compared stations against fleet averages
+- Classified operational pressure levels
+
+Key Metrics:
+
+- Total dispatches
+- Vehicles assigned
+- Dispatches per vehicle
+- Average response time
+- Response target compliance
+
+SQL Techniques:
+
+- Multiple CTEs
+- LEFT JOIN
+- INNER JOIN
+- Conditional aggregation
+- CASE logic
+- Benchmark analysis
+
+Business Value:
+
+Provides emergency management teams with visibility into stations that may require fleet balancing, coverage review, or operational investigation.
