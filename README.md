@@ -73,3 +73,38 @@ SQL Techniques:
 Business Value:
 
 Provides emergency management teams with visibility into stations that may require fleet balancing, coverage review, or operational investigation.
+
+### Query 3: Resource Allocation Recommendation
+
+File:
+`sql/03_resource_allocation_recommendation.sql`
+
+Business Question:
+
+Which stations should receive priority operational review?
+
+Analysis Performed:
+
+- Combined station workload and response indicators
+- Created a resource pressure score
+- Ranked stations by operational pressure
+- Generated review categories
+
+Final Output:
+
+- Station priority ranking
+- Resource pressure score
+- Recommended review action
+
+SQL Techniques:
+
+- Multiple CTE pipeline
+- Benchmark comparison
+- Cross join
+- Window functions
+- Ranking logic
+- Business rule classification
+
+Business Value:
+
+Supports evidence-based fleet review by highlighting stations where workload demand and response performance indicate possible resource imbalance.
