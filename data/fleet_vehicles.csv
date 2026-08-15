@@ -1,0 +1,36 @@
+vehicle_id,vehicle_type,home_station,operational_status
+E-01,Engine,Station 01,Available
+E-02,Rescue Unit,Station 01,Available
+E-03,Ladder Truck,Station 01,Available
+E-04,Engine,Station 01,Reserve
+E-05,Engine,Station 01,Reserve
+E-06,Engine,Station 02,Available
+E-07,Engine,Station 02,Available
+E-08,Ladder Truck,Station 02,Reserve
+E-09,Hazmat Unit,Station 02,Available
+E-10,Ladder Truck,Station 03,Reserve
+E-11,Ambulance,Station 03,Available
+E-12,Ambulance,Station 03,Reserve
+E-13,Rescue Unit,Station 03,Available
+E-14,Ladder Truck,Station 03,Maintenance
+E-15,Rescue Unit,Station 04,Available
+E-16,Ladder Truck,Station 04,Available
+E-17,Engine,Station 04,Available
+E-18,Ambulance,Station 04,Available
+E-19,Rescue Unit,Station 05,Reserve
+E-20,Rescue Unit,Station 05,Available
+E-21,Ambulance,Station 05,Reserve
+E-22,Engine,Station 05,Maintenance
+E-23,Hazmat Unit,Station 06,Available
+E-24,Hazmat Unit,Station 06,Available
+E-25,Hazmat Unit,Station 06,Available
+E-26,Engine,Station 07,Available
+E-27,Ladder Truck,Station 07,Available
+E-28,Engine,Station 07,Available
+E-29,Engine,Station 07,Maintenance
+E-30,Rescue Unit,Station 07,Maintenance
+E-31,Rescue Unit,Station 08,Available
+E-32,Rescue Unit,Station 08,Available
+E-33,Ladder Truck,Station 08,Available
+E-34,Engine,Station 08,Reserve
+E-35,Ladder Truck,Station 08,Reserve
