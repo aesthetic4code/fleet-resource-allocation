@@ -383,9 +383,9 @@ DIVIDE(
     COUNTROWS(emergency_dispatch)
 )
 
-##Dashboard Design Principles
+## Dashboard Design Principles
 
-#The dashboard follows:
+# The dashboard follows:
 
 Minimal clutter
 Executive-friendly KPIs
@@ -396,9 +396,9 @@ The goal is not only to display numbers but to answer:
 
 "What operational decision should happen next?"
 
-Future Improvements
+## Future Improvements
 
-Future dashboard enhancements:
+# Future dashboard enhancements:
 
 Real-Time Monitoring
 
@@ -408,19 +408,19 @@ Geographic Analysis
 
 Add station coverage maps.
 
-##Predictive Analytics
+## Predictive Analytics
 
 Forecast future emergency demand.
 
 Machine Learning Integration
 
-#Predict:
+# Predict:
 
   High-risk locations
   Expected response demand
   Resource requirements
 
-##Project Outcome
+## Project Outcome
 
 This dashboard provides emergency leadership with a data-driven view of:
 
